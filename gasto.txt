@@ -1,0 +1,12 @@
+987321   bodegista
+Enzo   Morales
+Con este empleado se gasto un total de: 
+$1.20539e+006 PESOS
+___________________________________________
+
+654   vendedor
+Samuel   Ramirez
+Con este empleado se gasto un total de: 
+$1.18403e+006 PESOS
+___________________________________________
+

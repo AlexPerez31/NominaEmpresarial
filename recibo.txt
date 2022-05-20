@@ -1,0 +1,57 @@
+EMPRESA:    Colchones S.A. | FECHA:  01/04/2018  AL  30/04/2018
+DOCUMENTO:  NOMINA MES DE ABRIL 2018 
+______________________________________________________
+|IDENTIFICACION |      NOMBRE      | CARGO |  BASE   |
+| 123456789 | Agustin | vendedor | 781242 | 
+_____________________________________________________|
+|       DESCRIPCION             |    VALOR       |
+| Horas Extra Diurnas           | $8137.94 | 
+| Horas Extra Noctrunas         | $0 | 
+| Horas Extra Festivas Diurnas  | $0 | 
+| Horas Extra Festivas Noctrunas| $0 | 
+| Comision De Vendedor          | $200000 | 
+| (-) Salud                     | $39575.2 | 
+|_______________________________|________________|
+| Sueldo Total                  | $949805 | 
+| Transporte                    | $88211 | 
+_________________________________________________|
+
+
+EMPRESA:    Colchones S.A. | FECHA:  01/04/2018  AL  30/04/2018
+DOCUMENTO:  NOMINA MES DE ABRIL 2018 
+______________________________________________________
+|IDENTIFICACION |      NOMBRE      | CARGO |  BASE   |
+| 987654 | Alba | secretaria | 781242 | 
+_____________________________________________________|
+|       DESCRIPCION             |    VALOR       |
+| Horas Extra Diurnas           | $8137.94 | 
+| Horas Extra Noctrunas         | $11393.1 | 
+| Horas Extra Festivas Diurnas  | $13020.7 | 
+| Horas Extra Festivas Noctrunas| $16275.9 | 
+| Comision De Vendedor          | $0 | 
+| (-) Salud                     | $33202.8 | 
+|_______________________________|________________|
+| Sueldo Total                  | $796867 | 
+| Transporte                    | $88211 | 
+_________________________________________________|
+
+
+EMPRESA:    Colchones S.A. | FECHA:  01/04/2018  AL  30/04/2018
+DOCUMENTO:  NOMINA MES DE ABRIL 2018 
+______________________________________________________
+|IDENTIFICACION |      NOMBRE      | CARGO |  BASE   |
+| 123456 | Paz | Gerenete | 2e+007 | 
+_____________________________________________________|
+|       DESCRIPCION             |    VALOR       |
+| Horas Extra Diurnas           | $416667 | 
+| Horas Extra Noctrunas         | $583333 | 
+| Horas Extra Festivas Diurnas  | $666667 | 
+| Horas Extra Festivas Noctrunas| $833333 | 
+| Comision De Vendedor          | $0 | 
+| (-) Salud                     | $900000 | 
+|_______________________________|________________|
+| Sueldo Total                  | $2.16e+007 | 
+| Transporte                    | $0 | 
+_________________________________________________|
+
+
