@@ -1,21 +1,4 @@
-/*  Alex Jordan Perez Rojas    Codigo:20172578109
-Programa "Nomina":
-El siguiente programa emula las funcion de una nomina (no exacta, pero si lo mas
-cercana posible), esta constituido con las librearias necesarias, con algunas 
-funciones con y sin parametros, sin variables globales y usando struct.
-La forma mas eficiente que halle para hacerlo sin variables globales y sin tener
-que ponerle muchos parametos a las funciones es usando los archivos como escritura
-y lectura, ya que al guardar informacion por palabra en unarchivo esta se puede
-volver a llamar sin necesidad de usar exactemente las mimas variables con las
-que se guardo la informacion, lo importante aqui es saber el orden en el que 
-se guardo la informacion y en ese mismo orden se vuelve a invocar.
-El programa aunque imprime en pantalla no fue exclusivamente dise�ado para
-guardar la informacion en 3 archivos los cuales son:
-empleados: este archivo guarda toda la informacion de la nomina, como
-		nombres, valores, etc. y fue la base para generar los demas archivos.
-gasto: solo guarda el valor que se gasto la empresa por cada empleado.
-recibo: Contiene el recibo de Nomina de solo los empleados que hallan sido seleccionados.
-*/
+//  Alex Jordan Perez Rojas
 
 #include <stdio.h>
 #include <iostream>
